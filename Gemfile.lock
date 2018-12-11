@@ -24,6 +24,7 @@ GEM
       rails-html-sanitizer (~> 1.0, >= 1.0.2)
     actionpack-xml_parser (1.0.2)
       actionpack (>= 4.0.0, < 5)
+    builder (3.2.3)
     capybara (2.13)
     csv (3.0.1)
     globalid (0.4.1)
