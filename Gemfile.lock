@@ -38,6 +38,8 @@ GEM
       rack (>= 1.0)
     rails (5.2.2)
     rails-dom-testing (1.0.9)
+    rails-html-sanitizer (1.0.4)
+      loofah (~> 2.2, >= 2.2.2)
     rbpdf (1.19.6)
     rdoc (4.3.0)
     redcarpet (3.4.0)
