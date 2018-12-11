@@ -36,6 +36,7 @@ GEM
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
+      mini_mime (>= 0.1.1)
     metaclass (0.0.4)
     mini_mime (1.0.1)
     mini_portile2 (2.3.0)
