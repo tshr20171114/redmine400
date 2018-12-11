@@ -5,6 +5,7 @@ GEM
     rouge (3.3.0)
     request_store (1.0.5)
     mini_mime (1.0.1)
+    actionpack-xml_parser
     puma (3.12.0)
 
 
