@@ -179,7 +179,7 @@ PLATFORMS
 
 DEPENDENCIES
   actionpack-xml_parser
-  capybara
+  capybara (~> 2.13)
   coderay (~> 1.1.1)
   heroku-deflater
   i18n (~> 0.7.0)
