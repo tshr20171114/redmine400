@@ -5,6 +5,9 @@ if Gem::Version.new(Bundler::VERSION) < Gem::Version.new('1.5.0')
 end
 
 ruby "2.5.3"
+gem 'rails_12factor'
+gem 'heroku-deflater'
+gem 'puma', '~> 3.12'
 
 gem "rails", "5.2.2"
 gem "rouge", "~> 3.3.0"
