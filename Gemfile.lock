@@ -34,6 +34,8 @@ GEM
     puma (3.12)
     rack (1.6.11)
     rack-openid (1.4.2)
+    rack-test (0.6.3)
+      rack (>= 1.0)
     rails (5.2.2)
     rails-dom-testing (1.0.9)
     rbpdf (1.19.6)
