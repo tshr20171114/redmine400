@@ -32,6 +32,7 @@ GEM
     nokogiri (1.8.5)
     pg (1.0.0)
     puma (3.12)
+    rack (1.6.11)
     rack-openid (1.4.2)
     rails (5.2.2)
     rails-dom-testing (1.0.9)
