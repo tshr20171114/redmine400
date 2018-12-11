@@ -173,6 +173,7 @@ DEPENDENCIES
   actionpack-xml_parser
   capybara (~> 2.13)
   csv (~> 3.0.1)
+  heroku-deflater
   i18n (~> 0.7.0)
   mail (~> 2.7.1)
   mimemagic
@@ -185,6 +186,7 @@ DEPENDENCIES
   rack-openid
   rails (= 5.2.2)
   rails-dom-testing
+  rails_12factor
   rbpdf (~> 1.19.6)
   rdoc
   redcarpet (~> 3.4.0)
