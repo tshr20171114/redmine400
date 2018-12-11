@@ -1,6 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    actionpack (4.2.11)
+      actionview (= 4.2.11)
+      activesupport (= 4.2.11)
+      rack (~> 1.6)
+      rack-test (~> 0.6.2)
+      rails-dom-testing (~> 1.0, >= 1.0.5)
+      rails-html-sanitizer (~> 1.0, >= 1.0.2)
     actionpack-xml_parser (1.0.2)
       actionpack (>= 4.0.0, < 5)
     capybara (2.13)
