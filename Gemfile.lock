@@ -191,7 +191,7 @@ DEPENDENCIES
   mocha
   net-ldap (~> 0.16.0)
   nokogiri (~> 1.8.5)
-  pg (~> 0.18.1)
+  pg (~> 1.0.0)
   protected_attributes
   puma (~> 3.12)
   rack (>= 1.6.11)
